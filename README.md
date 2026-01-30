@@ -21,6 +21,7 @@ w, space, KeyArrowUp - jump up
 
 q, ESC - output
 
-gameplay screenshots
+# gameplay screenshots
+
 ![процесс игры](./img/image_1.png)
 ![окно поражения](./img/image_2.png)
