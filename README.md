@@ -1,7 +1,8 @@
 A simple game simulating the gameplay of the world-famous game.
 
 
-Libraries used:
+# Libraries used:
+
 **fmt**- for classical input/output
 
 **math/rand** - to obtain a random pipe offset
@@ -14,11 +15,11 @@ Libraries used:
 
 **keyboard** - for keyboard input operation
 
-Controls:
+# Controls:
 
 w, space, KeyArrowUp - jump up
 
-q, ESC output
+q, ESC - output
 
 gameplay screenshots
 ![процесс игры](./img/image_1.png)
